@@ -26,7 +26,6 @@ ${description}
 * [License](#license)
 * [Contact](#Contact)
 
-
 ## Installation
 
 ${installation}
